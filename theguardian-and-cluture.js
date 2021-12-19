@@ -7,22 +7,23 @@ const fse = require('fs-extra');
   let data = [];
   const browser = await puppeteer.launch({
     headless: false,
-    userDataDir: "./data",
+    userDataDir: "./data"
   });
   const page = await browser.newPage();
+  await page.setDefaultNavigationTimeout(0);
   for (let pg = 1; pg <= 1; pg++) {
     await page.goto(
       `https://www.theguardian.com/au/culture`
     );
 
-    let listSelector = [".fc-item__kicker", ".js-headline-text"];
+    //[".fc-item__title"];//[".fc-item__container"];//[".fc-item__kicker", ".u-faux-block-link__overlay.js-headline-text"];
+    let listSelector = [".fc-item__link > span:nth-child(-n+2)"];
     for (selector of listSelector) {
       await page.waitForSelector(selector);
-      let titles = await page.$$eval(
+      data = await page.$$eval(
         selector,
         (links) => links.map((x) => x.innerText)
       );
-      data = data.concat(titles);
     }
   }
   browser.close();
