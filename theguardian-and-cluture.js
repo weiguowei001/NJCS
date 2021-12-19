@@ -16,7 +16,6 @@ const fse = require('fs-extra');
       `https://www.theguardian.com/au/culture`
     );
 
-    //[".fc-item__title"];//[".fc-item__container"];//[".fc-item__kicker", ".u-faux-block-link__overlay.js-headline-text"];
     let listSelector = [".fc-item__link > span:nth-child(-n+2)"];
     for (selector of listSelector) {
       await page.waitForSelector(selector);
