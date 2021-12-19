@@ -31,6 +31,6 @@ const fse = require('fs-extra');
     }
   }
   browser.close();
-  await fse.outputFile(moment().format('YYYY-MM-DD') + '/Finance&economics.txt', data.join('\n\n'));
+  await fse.outputFile(moment().format('YYYY-MM-DD') + '/science-and-technology.txt', data.join('\n\n'));
 })();
 
