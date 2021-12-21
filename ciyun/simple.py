@@ -10,7 +10,7 @@ def simplewordcloud(file):
     text = open(file, encoding='UTF-8').read()
 
     # Generate a word cloud image
-    wordcloud = WordCloud(max_font_size=40, max_words=2000, width=800, height=600).generate(text)
+    wordcloud = WordCloud(max_font_size=40, max_words=4000, width=800, height=600).generate(text)
 
     # save image
     image = wordcloud.to_image()
