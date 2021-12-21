@@ -1,31 +1,33 @@
 import os
 
-from os import path
+from os import path, replace
 from wordcloud import WordCloud
+from pathlib import Path
 
-# get data directory (using getcwd() is needed to support running example in generated IPython notebook)
-d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
+def simplewordcloud(file):
+    print(file)
+    # Read the whole text.
+    text = open(file, encoding='UTF-8').read()
 
-# Read the whole text.
-text = open(path.join(d, '../2021-12-20/theguardian-and-cluture.txt'), encoding='UTF-8').read()
+    # Generate a word cloud image
+    wordcloud = WordCloud(max_font_size=40, max_words=2000, width=800, height=600).generate(text)
 
-# Generate a word cloud image
-wordcloud = WordCloud().generate(text)
+    # save image
+    image = wordcloud.to_image()
+    image.save(Path(file).with_suffix(".png"));
+    # Display the generated image:
+    # the matplotlib way:
+    # import matplotlib.pyplot as plt
+    # plt.imshow(wordcloud, interpolation='bilinear')
+    # plt.axis("off")
 
-# Display the generated image:
-# the matplotlib way:
-import matplotlib.pyplot as plt
-plt.imshow(wordcloud, interpolation='bilinear')
-plt.axis("off")
+    # lower max_font_size
+    # wordcloud = WordCloud(max_font_size=40).generate(text)
+    # plt.figure()
+    # plt.imshow(wordcloud, interpolation="bilinear")
+    # plt.axis("off")
+    # plt.show()
 
-# lower max_font_size
-wordcloud = WordCloud(max_font_size=40).generate(text)
-# plt.figure()
-# plt.imshow(wordcloud, interpolation="bilinear")
-# plt.axis("off")
-# plt.show()
-
-# The pil way (if you don't have matplotlib)
-image = wordcloud.to_image()
-# image.show()
-image.save("ciyun/simple.png");
+    # The pil way (if you don't have matplotlib)
+    # image = wordcloud.to_image()
+    # image.show()
