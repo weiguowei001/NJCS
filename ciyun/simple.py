@@ -4,7 +4,7 @@ from os import path, replace
 from wordcloud import WordCloud
 from pathlib import Path
 
-def simplewordcloud(file):
+def simplewordcloud(file : str):
     print(file)
     # Read the whole text.
     text = open(file, encoding='UTF-8').read()
