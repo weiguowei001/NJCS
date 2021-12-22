@@ -1,3 +1,4 @@
+git pull
 node classical-music-and-opera.js
 node finance-and-economics.js
 node science-and-technology.js
