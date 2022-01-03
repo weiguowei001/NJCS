@@ -12,6 +12,6 @@ for root, dirs, files in os.walk("."):
         # print(len(path) * '---', file)
         txt = Path(os.path.join(root, file))
         png = Path(os.path.join(root, file)).with_suffix('.png')
-        if (root.find("2021") != -1 and txt.suffix == ".txt"):
+        if (root.find("2022") != -1 and txt.suffix == ".txt"):
             if (not png.exists() or os.path.getmtime(txt) > os.path.getmtime(png)):
                 simple.simplewordcloud(txt)
