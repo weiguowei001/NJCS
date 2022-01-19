@@ -26,6 +26,6 @@ const fse = require('fs-extra');
     }
   }
   browser.close();
-  await fse.outputFile(moment().format('YYYY-MM-DD') + '/classical-music-and-opera.txt', data.join('\n\n'));
+  await fse.outputFile(moment().format('YYYY-MM') + '/' + moment().format('YYYY-MM-DD') + '/classical-music-and-opera.txt', data.join('\n\n'));
 })();
 
