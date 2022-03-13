@@ -1,3 +1,34 @@
+Russian roulette
+Why crypto is unlikely to be useful for sanctions-dodgers
+It may have more going for it as a tool to help Ukraine’s fund-raising efforts
+Kindred Seoul
+South Korea’s economy threatens to become like Japan’s
+That could spell enormous trouble
+The future of Generali
+The battle to modernise Italy's corporate governance
+A bank fights billionaires over the fate of the country's largest insurance firms
+Buttonwood
+How unlisted startups’ valuations will adjust to falling share prices
+Surprisingly slowly
+Acquired immunity
+How is Omicron affecting the global economic recovery?
+High-frequency data suggest the effect may be limited—and short-lived
+Super savers
+The $28trn global reach of Asian finance
+As private savings have built up in East and South-East Asia, the region’s financiers now wield heft in far-flung asset markets
+House party
+How long can the global housing boom last?
+Three fundamental forces mean it could endure for some time yet
+Spinning around
+The private-markets party reaches fever pitch
+As valuations surge and interest-rate rises loom, can it last?
+Buttonwood
+Have SPACs been cleaned up?
+Newer blank-cheque vehicles are less costly for investors. But the change may not last
+Lost promise
+The violence in Ethiopia imperils an impressive growth record
+Of all the countries in Africa, it came closest to mimicking the Chinese model
+
 Pipe dream
 Russia looks to Chinese financial plumbing to keep money flowing
 It isn’t connected to the world well enough to help much
@@ -22,9 +53,9 @@ It has been a lose-lose ordeal
 Free exchange
 Why the demographic transition is speeding up
 New research suggests “demographic contagion” could explain falling fertility rates
-Free exchange
-The explosion in stablecoins revives a debate around “free banking”
-Did privately issued money in the 18th and 19th centuries lead to chaos or stability?
+Squeezing the balloon
+How piecemeal carbon pricing affects cross-border lending
+Banks with domestic carbon-pricing schemes do more dirty lending abroad
 Lifting off
 Frequent-flyer schemes provide airlines with a lifeline
 Many carriers are using them as collateral
@@ -53,16 +84,16 @@ Populism, climate change and supply-chain fixes will raise the long-term cost of
 On the rails
 The economics of a new China-Laos train line
 Why connectivity matters
-Squeezing the balloon
-How piecemeal carbon pricing affects cross-border lending
-Banks with domestic carbon-pricing schemes do more dirty lending abroad
+Free exchange
+The explosion in stablecoins revives a debate around “free banking”
+Did privately issued money in the 18th and 19th centuries lead to chaos or stability?
 Houdini economics
 Germany grapples with weird ways to dodge its debt brake
 The constitutional ceiling on borrowing is inspiring all sorts of wheezes
 
-War bonds
-Western credit markets are holding up remarkably well
-Post-financial-crisis reforms are helping them weather the storm
+The makers and the takers
+Our crony-capitalism index offers a window into Russia’s billionaire wealth
+Rich folk in autocratic countries remain vulnerable to the whims of dictators
 Nyet interest
 European banks have most to lose in Russia
 And it’s not just about loans
@@ -91,9 +122,9 @@ Land of the falling price
 The case of Japan’s curiously quiescent inflation rate
 As consumer prices rise across much of the world, inflation in Japan stays stubbornly low
 
-The makers and the takers
-Our crony-capitalism index offers a window into Russia’s billionaire wealth
-Rich folk in autocratic countries remain vulnerable to the whims of dictators
+War bonds
+Western credit markets are holding up remarkably well
+Post-financial-crisis reforms are helping them weather the storm
 The market reacts
 The rouble’s collapse compounds Russia’s isolation
 Capital controls may soon follow, destroying the last vestige of the country's financial credibility
@@ -122,9 +153,9 @@ Free exchange
 Janos Kornai understood capitalism by studying its opposite
 Prices cannot work if losses do not hurt
 
-Buttonwood
-Iran’s flourishing stockmarket reflects its resilient economy
-The economy was hurt badly by sanctions but did not collapse
+Free exchange
+How oil shocks have become less shocking
+Soaring crude prices stoke fears of recession, but the global economy looks resilient
 Isolating Russia
 How new sanctions could cripple Russia’s economy
 The brutal logic behind measures targeting the central bank
@@ -153,9 +184,9 @@ Patch-up job
 As housing costs rocket, governments take aim at large investors
 The approach is politically expedient, but it may not make housing cheaper
 
-Free exchange
-How oil shocks have become less shocking
-Soaring crude prices stoke fears of recession, but the global economy looks resilient
+Grain damage
+War in Ukraine will cripple global food markets
+The share of incomes spent on staples is about to jump everywhere
 Artful dodging
 America’s tariff wall on Chinese imports looks increasingly like Swiss cheese
 As avoidance booms, so does the trade deficit
@@ -184,9 +215,9 @@ Material needs
 China seeks to extend its clout in commodity markets
 Aside from its big appetite for energy and metals, it is also opening up to international traders
 
-Grain damage
-War in Ukraine will cripple global food markets
-The share of incomes spent on staples is about to jump everywhere
+Buttonwood
+Iran’s flourishing stockmarket reflects its resilient economy
+The economy was hurt badly by sanctions but did not collapse
 Trading with the enemy
 The economic consequences of the war in Ukraine
 Expect higher inflation, lower growth and some disruption to financial markets
@@ -252,9 +283,9 @@ As defaults escalate, another shock threatens to hit the global economy
 Buttonwood
 The many virtues of the yen, the rich world’s cheapest currency
 Japan has low inflation, cheap stocks and a strong international balance-sheet
-What goes up?
-Is the modern, bank-light financial system better than the old one?
-Brace for a stress test
+Free exchange
+The promise of former eastern-bloc economies is mostly unfulfilled
+But those that joined the EU have done much better than the rest
 Free exchange
 Quantitative tightening is no substitute for higher interest rates
 Reversing trillions of dollars of asset purchases may prove to be an unreliable tool
@@ -283,9 +314,9 @@ But not necessarily higher interest rates
 Lost and fund
 Despite bulging debt everywhere, the IMF is struggling to be helpful
 The world’s lender of last resort is hampered by geopolitical tensions
-Free exchange
-The promise of former eastern-bloc economies is mostly unfulfilled
-But those that joined the EU have done much better than the rest
+What goes up?
+Is the modern, bank-light financial system better than the old one?
+Brace for a stress test
 Forward in fear
 The reasons behind the stockmarket turmoil
 From Fed tightening to rising wage costs, investors see gloomy prospects ahead
@@ -323,9 +354,9 @@ Tight markets mean that prices are all too responsive to rising tensions
 Taming tigers
 A corruption probe is only the latest of Chinese insurers’ woes
 About 30% of salespeople have left the industry since 2019
-Free exchange
-The IMF bashes the IMF over Argentina
-The fund’s huge rescue plan for the country could not withstand the foreseeable risks it faced
+House party
+How long can the global housing boom last?
+Three fundamental forces mean it could endure for some time yet
 Hidden danger
 China’s property slowdown sheds light on another worrying debt problem
 Local-government financing vehicles, not just developers, are saddled with lashings of debt
@@ -338,34 +369,3 @@ The Turkish president is at war with the markets
 Buttonwood
 Cash is a low-yielding asset but has other virtues
 The immediacy of cash is a plus when other investments rely on evermore distant earnings
-
-Kindred Seoul
-South Korea’s economy threatens to become like Japan’s
-That could spell enormous trouble
-The future of Generali
-The battle to modernise Italy's corporate governance
-A bank fights billionaires over the fate of the country's largest insurance firms
-Buttonwood
-How unlisted startups’ valuations will adjust to falling share prices
-Surprisingly slowly
-Acquired immunity
-How is Omicron affecting the global economic recovery?
-High-frequency data suggest the effect may be limited—and short-lived
-Super savers
-The $28trn global reach of Asian finance
-As private savings have built up in East and South-East Asia, the region’s financiers now wield heft in far-flung asset markets
-House party
-How long can the global housing boom last?
-Three fundamental forces mean it could endure for some time yet
-Spinning around
-The private-markets party reaches fever pitch
-As valuations surge and interest-rate rises loom, can it last?
-Buttonwood
-Have SPACs been cleaned up?
-Newer blank-cheque vehicles are less costly for investors. But the change may not last
-Lost promise
-The violence in Ethiopia imperils an impressive growth record
-Of all the countries in Africa, it came closest to mimicking the Chinese model
-Inflation in America
-A three-decade high in inflation sows concerns about America’s recovery
-How a broad pickup in prices puts pressure on the Fed to raise rates
